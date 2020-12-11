@@ -1,0 +1,5 @@
+first add  "ProceduralMeshComponent" to the build.c# file
+
+like this PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "ProceduralMeshComponent" });
+
+Then attach the actor to the scene
